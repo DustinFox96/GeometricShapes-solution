@@ -4,7 +4,7 @@ namespace GeometricShapes_project {
     class Program {
         static void Main(string[] args) {
 
-            var sqr1 = new SQR(5);
+            var sqr1 = new SQR(5); 
             Console.WriteLine($"sqr1 perimeter is {sqr1.Perimeter()}, area is {sqr1.Area()}");
 
 
